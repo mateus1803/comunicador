@@ -1,0 +1,4 @@
+[2024-04-04 14:22:22] mensagens:1|rompimento no meu pal
+[2024-04-04 14:23:23] mensagens:1|aaaaaaaaa
+[2024-04-04 14:23:51] mensagens:2|rompimento placa tal
+[2024-04-04 14:24:31] mensagens:3|rompimento resolvido
